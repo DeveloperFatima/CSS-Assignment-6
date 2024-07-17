@@ -1,0 +1,82 @@
+.heading{
+    text-align: center;
+    font-family: garamond;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    text-shadow: 3px 5px 2px gray;
+}
+li{
+    display: inline-block;
+    padding: 10px 10px;
+}
+ul{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin: auto;
+    width: 60%;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.image{
+    width: 277px;
+    height: 250px;
+}
+.para{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+.img{
+    height: 300px;
+    width: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.del{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: blue;
+}
+.spinet{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+}
+.button{
+    background-color: aqua;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.thanks{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p.thanks{
+    font-size: larger;
+}
+.back{
+    font-size: larger;
+    background-color: coral;
+    color: white;
+    border-radius: 6px;
+}
+.lorem{
+    text-align: justify;
+}
+.facebook{
+    height: 80px;
+    width: 80px;
+}
+.social{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.socials{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
